@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 First Editing on github.
 
 Now it is added a focus.
+Now it is added a focus.
